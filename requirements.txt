@@ -37,7 +37,7 @@ contourpy==1.2.0
 cookiecutter==2.6.0
 coverage==7.6.3
 cycler==0.12.1
-debugpy==1.6.8
+debugpy==1.6.7
 decorator==5.1.1
 defusedxml==0.7.1
 distlib==0.3.9
